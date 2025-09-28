@@ -12,6 +12,14 @@ The primary objective was to design and deploy an **interactive Power BI Dashboa
 * **Regional Analysis:** Visualizing performance distribution across different regions/cities (e.g., NYC, Paris, San Francisco) to identify top markets and areas needing improvement.
 * **Product Segmentation:** Deep-dive analysis of sales broken down by **Product Line** (e.g., Motorcycles, Trucks, Classic Cars) and **Deal Size** (Small, Medium, Large).
 
+* ## Key Findings (Actionable Insights)
+
+Through data modeling and visualization, the analysis revealed several critical business findings:
+
+* **Focus on Small/Medium Deals:** The majority of orders fall within the 'Small' and 'Medium' deal sizes, indicating that sales strategies should prioritize optimizing these transaction tiers.
+* **Top Regional Performance:**USA** was identified as the top-performing country, providing a successful benchmark for other regional sales teams.
+* **Product Line Prioritization:** The **Classic Cars** segment contributes the most significant revenue, confirming it should remain a key focus for inventory and marketing.
+
 ## Technology & Methodology
 * **BI Tool:** **Power BI** (Used for Dashboard Development, Data Visualization).
 * **Data Source:** Raw data was sourced from `Auto Sales data.csv`.
